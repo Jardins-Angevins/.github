@@ -8,11 +8,11 @@
 
 </div>
 
-> Commandité par le conseil de quartier de Belle-Beille et plus précisément de sp, grpupe ed travail "Label éco-quartier" auprès de l'Univeristé d'Angers.
+> Commandité par le conseil de quartier de Belle-Beille et plus précisément par son groupe de travail "Label éco-quartier" auprès de l'Université d'Angers.
 
 > Dans le cadre du projet annuel de seconde année de master les trois étudiants :
 >   - Mathieu TOULON
 > 	- César ACHARD--BONNET
 >	- Alexandre MONNIER 
 >
-> ont choisi de faire ce projet qui à pour but la conception d'une application mobile permettant aux habitant du quartier de reconnaitre des plantes via un système d'IA à apprentissage profond et aussi de leur recommander des choix de plante pour leurs jardins en le justifiant. Et enfin pour le quartier de suivre pour mieux maitrisé les lieux de vie de chacune des espèces via un système de cartographie.
+> ont choisi de faire ce projet qui à pour but la conception d'une application mobile permettant aux habitants du quartier de reconnaitre des plantes via un système d'IA à apprentissage profond et aussi de leur recommander des choix de plantes pour leurs jardins en le justifiant. Elle permet enfin pour le quartier de suivre l'évolution de la répartition des espèces afin de mieux maitriser les lieux de vie de chacune des espèces via un système de cartographie.
